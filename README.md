@@ -62,8 +62,8 @@
 
 ### [prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)
 
-Tailwind CSS 클래스 자동 정렬 플러그인
+Prettier Tailwind CSS 클래스 자동 정렬 플러그인
 
-클래스 네임을 [권장 클래스 순서](https://tailwindcss.com/blog/automatic-class-sorting-with-prettier#how-classes-are-sorted)에 맞게 자동으로 정렬해주는 플러그인
+클래스 네임을 [권장 클래스 순서](https://tailwindcss.com/blog/automatic-class-sorting-with-prettier#how-classes-are-sorted)에 맞게 자동으로 정렬해주는 **프리티어** 플러그인
 
 출처: https://techblog.woowahan.com/15903/#toc-6
